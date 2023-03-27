@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vectorbatista/vectorbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m Vector
 - 🌱 I’m currently learning Python 
@@ -11,4 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about money
 - ⚡ Fun fact: I can't talk about me
 
-<iframe src="https://giphy.com/embed/ThrM4jEi2lBxd7X2yz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thisgifishaunted-halloween-working-happy-ThrM4jEi2lBxd7X2yz">via GIPHY</a></p>
+<img align="center" height="200" src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif">
+
